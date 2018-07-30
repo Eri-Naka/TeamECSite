@@ -7,7 +7,7 @@
 ### - LeisurePass！リポジトリ  
 ##  https://github.com/internousdevwork/leisurepass
 
-##【　担当　】
-###パスワード再設定
-###デザイン　（Adobe Illustrator　　Photoshop　使用）
-###ロゴ作成
+## 【　担当　】
+### パスワード再設定
+### デザイン　（Adobe Illustrator　　Photoshop　使用）
+### ロゴ作成
