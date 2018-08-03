@@ -5,7 +5,7 @@
 ##  http://www.internousdev.com/leisurepass  
   
 ### - LeisurePass！リポジトリ  
-##  https://github.com/internousdevwork/leisurepass
+##  https://github.com/Eri-Naka/TeamEC_Full.git
 
 ## 【　担当　】
 ### パスワード再設定
